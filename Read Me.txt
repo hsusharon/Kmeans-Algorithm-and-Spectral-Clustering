@@ -1,0 +1,6 @@
+The objection of this mini project is to compare the result between Kmeans algorithm and Spectral clustering
+We cluster the data into 2,4,8 different clusters.
+And we are also able to show that optimal clustering method depends on the dataset. 
+
+Run main.m to generate 12 figures that classifies the data into multiple classes.
+Use the cost function to calculate each classification method.
